@@ -11,11 +11,11 @@ const Footer = () => {
         Copyright ©{currentYear} Todos os direitos reservados | Desenvolvedor
         Fullstack Javascript
         <a
-          href="https://www.linkedin.com/in/guifsantos/"
+          href="https://www.linkedin.com/in/edmilsondiass/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          GUILHERME SANTOS
+          Edmilson Dias
         </a>
       </p>
     </WrapperFooter>

@@ -46,11 +46,11 @@ const Contact = () => {
           </p>
           <p>
             <a
-              href="https://api.whatsapp.com/send?phone=5511986701058"
+              href="https://api.whatsapp.com/send?phone=5511993883197"
               target="_blank"
               rel="noopener noreferrer"
             >
-              +55 11 98670-1058 <FiSmartphone />
+              +55 11 99388-3197 <FiSmartphone />
             </a>
           </p>
           <p>
@@ -59,7 +59,7 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              guilhermeferreira2107@gmail.com <RiMailOpenLine />
+              eddiasdev@gmail.com <RiMailOpenLine />
             </a>
           </p>
         </ContentContacts>

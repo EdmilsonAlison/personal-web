@@ -32,14 +32,14 @@ const About = () => {
             Olá, prazer em conhecer você!
             <br />
             <br />
-            Me chamo Guilherme e sou desenvolvedor web e mobile
+            Me chamo Edmilson e sou desenvolvedor FullStack
             <br />
             <span>
-              {"["}ReactJS/NextJs, React Native, Angular 8+, NodeJS/NestJS{"]"}
+              {"["}ReactJS/Angular, Java, Python e Golang{"]"}
             </span>
             <br />
             <br />
-            Desde 2012, venho estudando e aplicando todo o conhecimento
+            Desde 2017, venho estudando e aplicando todo o conhecimento
             <br />
             adquirido em construções de aplicações web e mobile no meu
             cotidiano.
