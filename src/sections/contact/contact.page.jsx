@@ -55,7 +55,7 @@ const Contact = () => {
           </p>
           <p>
             <a
-              href="mailto:guilhermerferreira2107@gmail.com"
+              href="mailto:eddiasdev@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >

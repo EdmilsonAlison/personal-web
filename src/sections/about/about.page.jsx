@@ -24,7 +24,7 @@ const About = () => {
     <WrapperAbout id="about">
       <TitleComponent title="SOBRE" titleSpan="MIM" />
       <ContentImageMobile>
-        <img src={perfil} alt="Guilherme Santos" loading="lazy" />
+        <img src={perfil} alt="Edmilson Dias" loading="lazy" />
       </ContentImageMobile>
       <ContentAbout ref={ref}>
         <div>
@@ -51,7 +51,7 @@ const About = () => {
           </p>
         </div>
         <ContentImage>
-          <img src={perfil} alt="Guilherme Santos" loading="lazy" />
+          <img src={perfil} alt="Edmilson Dias" loading="lazy" />
         </ContentImage>
       </ContentAbout>
     </WrapperAbout>
